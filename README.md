@@ -21,6 +21,6 @@ cd darknet
 ```
 - We add our processed data to the data folder in the darknet directory
 
-- After cloning the darknet repository, we run split.py to sgregate the data into training and validation image paths https://github.com/sid0312/ANPR/blob/master/split.py in darknet/data/train.txt and darknet/data/val.txt repectively 
+- After cloning the darknet repository, we run split.py to segregate the data into training and validation image paths https://github.com/sid0312/ANPR/blob/master/split.py in darknet/data/train.txt and darknet/data/val.txt repectively 
 
 
