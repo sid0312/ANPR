@@ -4,7 +4,7 @@
 
 ### Dataset preparation
 
-- Download the json from kaggle 
+- Download the JSON from Kaggle. This would serve as our starter dataset
 
 https://www.kaggle.com/dataturks/vehicle-number-plate-detection
 
