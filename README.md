@@ -1,6 +1,6 @@
 # Automatic Number Plate Recognition (ANPR)
 
-## License Plate detection on Indian Number Plates using Yolo v3 Darknet
+## License Plate detection and recognition on Indian Number Plates using Yolo v3 Darknet and OCR
 
 ### Dataset preparation
 
