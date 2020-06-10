@@ -4,13 +4,17 @@
 
 <p align="center">  
 ## Detection
-  
+</p>
+ 
+<p align="center">  
   <img src="https://media.giphy.com/media/9rpdP0huNtf2pOqvjs/giphy.gif">
+</p>
 
-
-
+<p align="center">  
 ### Dataset Preparation
+</p>
 
+<p align="center">  
   <img src="https://media.giphy.com/media/xTiTnJo7hCVlHyOag8/giphy.gif">
 </p>
 
