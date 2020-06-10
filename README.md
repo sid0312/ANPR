@@ -86,5 +86,9 @@ Now we use Optical Character Recognition on the cropped Region of Interest to ob
 cd ANPR
 python recognition.py /path/to/cropped/img
 ```
-
-
+## Recognition results
+<p align = "center">
+ <img src = "https://github.com/sid0312/ANPR/blob/master/screenshots/capture_2.JPG"
+      </p>
+ 
+ 
