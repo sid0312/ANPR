@@ -49,7 +49,7 @@ We train on YOLO v3 Darknet in Google Colaboratory. Notice the darknet forlder i
 <p align="center">   
   <img src="https://github.com/sid0312/ANPR/blob/master/weights/checkpoints/checkpoint_img.JPG">
  <p align="center">  
- <h6> Model checkpoints</h6>
+                                                         Model checkpoints
  </p>
 </p>
 
