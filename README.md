@@ -5,7 +5,7 @@
 ### So how do you even detect number plates ?
 ![](license.gif)
 
-### Dataset Preparation
+# Dataset Preparation
 
 ![](prep.gif)
 
@@ -30,4 +30,3 @@ cd darknet
 
 ## Let us train now !!!
 ![](license2.gif)
-
