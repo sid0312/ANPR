@@ -48,5 +48,36 @@ The entire training process has been explained [here](https://github.com/sid0312
 We train on YOLO v3 Darknet in Google Colaboratory. Notice the darknet forlder in the repository shows the files to be added to the cloned repository from Pjreddie.
 <p align="center">   
   <img src="https://github.com/sid0312/ANPR/blob/master/weights/checkpoints/checkpoint_img.JPG">
+ <p align="center">  
+                                                         Model checkpoints
+ </p>
 </p>
+
+## Time for detection
+<p align="center">   
+  <img src="https://media.giphy.com/media/q6OWziPni6sQE/200_d.gif">
+</p>
+
+```
+git clone https://github.com/sid0312/ANPR
+cd ANPR
+python test.py -i /path/to/image -c /path/to/config_file -w /path/to/weights/ -cl /path/to/obj.names
+```
+## Results for detection
+
+<p align="left">   
+  <img src="https://github.com/sid0312/ANPR/blob/master/screenshots/capture_1.JPG">
+</p>
+
+Note: It works on only high resolution images as the dataset contains only 237 images. A larger manually labelled dataset would lead much robust predictions
+
+### We obtain a cropped region of interest too
+
+<p align="left">   
+  <img src="https://github.com/sid0312/ANPR/blob/master/cropped.jpg">
+</p>
+
+# Recgonition
+
+Now we use Optical Character Recognition on the cropped Region of Interest to obtain the value of the license plate. We use the awesome <strong>Pytesseract</strong> library 
 
