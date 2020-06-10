@@ -96,7 +96,7 @@ python recognition.py /path/to/cropped/img
  <img src = "https://media1.tenor.com/images/2437a045906fe02f38cb000fea7daa1b/tenor.gif?itemid=10390878"
   </p>
  
- <strong> Just Kidding </strong> :joy: :joy: !!! 
+###                                Just Kidding :joy: :joy: !!! 
  
  
  
