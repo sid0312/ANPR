@@ -93,10 +93,10 @@ python recognition.py /path/to/cropped/img
  
  ## Our ANPR works. Credits to....
  <p align = "center">
- <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQpfwnFBi_lwASFfTWZglIW7nqDLGpZyySVsp7FGgUYm8ujMAqd&usqp=CAU"
+ <img src = "https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/0/06/Avengers_Tesseract2012.png/revision/latest?cb=20170220131242"
   </p>
  
- ### Just Kidding
+ ### Just Kidding !!! 
  
  # Made with :heart: by Siddhant Baldota 
  
