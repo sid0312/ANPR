@@ -3,12 +3,10 @@
 ## License Plate detection and recognition on Indian Number Plates using Yolo v3 Darknet and OCR
 
 ### So how do you even detect number plates ?
-<p align="center">                     
 ![](license.gif)
-</p>
 # Dataset Preparation
-<p align="center">
-![](prep.gif)
+<p align="center">                     
+  <img width="300" height="300" src="https://media.giphy.com/media/xTiTnJo7hCVlHyOag8/giphy.gif">
 </p>
 - Download the JSON from Kaggle. This would serve as our starter dataset
 
@@ -30,6 +28,6 @@ cd darknet
 - After cloning the darknet repository, we run split.py to segregate the data into training and validation image paths https://github.com/sid0312/ANPR/blob/master/split.py in darknet/data/train.txt and darknet/data/val.txt repectively 
 
 ## Let us train now !!!
-<p align="center">
+
 ![](license2.gif)
-</p>
+
