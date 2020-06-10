@@ -51,7 +51,6 @@ We train on YOLO v3 Darknet in Google Colaboratory. Notice the darknet forlder i
 </p>
 
 ## Time for detection
-https://media.giphy.com/media/q6OWziPni6sQE/200_d.gif
 <p align="center">   
   <img src="https://media.giphy.com/media/q6OWziPni6sQE/200_d.gif">
 </p>
