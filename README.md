@@ -6,7 +6,7 @@
 ![](license.gif)
 # Dataset Preparation
 <p align="center">                     
-  <img width="300" height="300" src="https://media.giphy.com/media/xTiTnJo7hCVlHyOag8/giphy.gif">
+  <img src="https://media.giphy.com/media/xTiTnJo7hCVlHyOag8/giphy.gif">
 </p>
 - Download the JSON from Kaggle. This would serve as our starter dataset
 
