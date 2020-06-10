@@ -96,7 +96,7 @@ python recognition.py /path/to/cropped/img
  <img src = "https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/0/06/Avengers_Tesseract2012.png/revision/latest?cb=20170220131242"
   </p>
  
- ### Just Kidding !!! 
+ # Just Kidding !!! 
  
  # Made with :heart: by Siddhant Baldota 
  
