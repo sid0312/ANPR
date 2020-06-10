@@ -18,13 +18,13 @@
   <img src="https://media.giphy.com/media/xTiTnJo7hCVlHyOag8/giphy.gif">
 </p>
 
-- Download the JSON from Kaggle. This would serve as our starter dataset
+- [Dataset link]('https://www.kaggle.com/dataturks/vehicle-number-plate-detection')
+   This would serve as our starter dataset
 
-https://www.kaggle.com/dataturks/vehicle-number-plate-detection
 
-- Check out JSON preprocessing to yield the dataset in yolo format
+- Check out JSON preprocessing to yield the dataset in yolo format [here](https://github.com/sid0312/ANPR/blob/master/data_preparation.ipynb)
 
-https://github.com/sid0312/ANPR/blob/master/data_preparation.ipynb
+  
 
 - I have uploaded the prepared dataset too
 
