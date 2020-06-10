@@ -98,6 +98,8 @@ python recognition.py /path/to/cropped/img
  
  ## Just Kidding :joy: :joy: !!! 
  
+ 
+ 
 # Made with :heart: by Siddhant Baldota
 
 ![](https://github.com/sid0312)
