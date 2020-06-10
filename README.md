@@ -60,7 +60,9 @@ git clone https://github.com/sid0312/ANPR
 cd ANPR
 python test.py -i /path/to/image -c /path/to/config_file -w /path/to/weights/ -cl /path/to/obj.names
 ```
-# Results for detection
-![](screenshots/capture1.JPG)
+## Results for detection
 
+<p align="left">   
+  <img src="https://github.com/sid0312/ANPR/blob/master/screenshots/capture_1.JPG">
+</p>
 
