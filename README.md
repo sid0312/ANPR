@@ -38,6 +38,6 @@ cd darknet
   <img src="https://thumbs.gfycat.com/MetallicNimbleDodo-size_restricted.gif">
 </p>
 
-The entire training process has been explained ['here'](https://github.com/sid0312/ANPR/blob/master/train.ipynb)
+The entire training process has been explained [here](https://github.com/sid0312/ANPR/blob/master/train.ipynb)
 
 
