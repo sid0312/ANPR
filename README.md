@@ -2,10 +2,12 @@
 
 ## License Plate detection and recognition on Indian Number Plates using Yolo v3 Darknet and OCR
 
-## So how do you even detect number plates ?
+### So how do you even detect number plates ?
 ![](license.gif)
 
-### Dataset preparation
+### Dataset Preparation
+
+![](prep.gif)
 
 - Download the JSON from Kaggle. This would serve as our starter dataset
 
