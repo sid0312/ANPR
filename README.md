@@ -43,7 +43,7 @@ cd darknet
   <img src="https://thumbs.gfycat.com/MetallicNimbleDodo-size_restricted.gif">
 </p>
 
-The entire training process has been explained [here](https://github.com/sid0312/ANPR/blob/master/train.ipynb)
+The entire training process has been explained [here](https://github.com/sid0312/ANPR/blob/master/notebooks/train.ipynb)
 
 We train on YOLO v3 Darknet in Google Colaboratory. Notice the darknet forlder in the repository shows the files to be added to the cloned repository from Pjreddie.
 <p align="center">   
