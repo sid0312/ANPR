@@ -19,7 +19,8 @@
 </p>
 
 - Download the starter dataset in JSON format from [here]('https://www.kaggle.com/dataturks/vehicle-number-plate-detection')
-   This would serve as our starter dataset
+   
+ This would serve as our starter dataset
 
 
 - Check out JSON preprocessing to yield the dataset in yolo format [here](https://github.com/sid0312/ANPR/blob/master/data_preparation.ipynb)
