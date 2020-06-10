@@ -10,9 +10,11 @@ import argparse
 import sys
 import pytesseract
 pytesseract.pytesseract.tesseract_cmd=r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+
 if len(sys.argv)==2:
-	img = cv2.imread(sys.argv[1])
-	print(pytesseract.image_to_string(img))
+    img = cv2.imread(sys.argv[1])
+    cv2.imshow('cropped',img)
+    print(pytesseract.image_to_string(img))
 
 elif len(sys.argv)<2:
 	print("Enter second argument as image")
