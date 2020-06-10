@@ -66,3 +66,15 @@ python test.py -i /path/to/image -c /path/to/config_file -w /path/to/weights/ -c
   <img src="https://github.com/sid0312/ANPR/blob/master/screenshots/capture_1.JPG">
 </p>
 
+Note: It works on only high resolution images as the dataset contains only 237 images. A larger manually labelled dataset would lead much robust predictions
+
+### We obtain a cropped region of interest too
+
+<p align="left">   
+  <img src="https://github.com/sid0312/ANPR/blob/master/cropped.jpg">
+</p>
+
+# Recgonition
+
+Now we use Optical Character Recognition on the cropped Region of Interest to obtain the value of the license plate. In order to do so, we use ##### Pytesseract  
+
