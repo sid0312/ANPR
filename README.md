@@ -18,7 +18,7 @@
   <img src="https://media.giphy.com/media/xTiTnJo7hCVlHyOag8/giphy.gif">
 </p>
 
-- [Dataset link]('https://www.kaggle.com/dataturks/vehicle-number-plate-detection')
+- Download the starter dataset in JSON format from [here]('https://www.kaggle.com/dataturks/vehicle-number-plate-detection')
    This would serve as our starter dataset
 
 
