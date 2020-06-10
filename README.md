@@ -2,15 +2,15 @@
 
 ## License Plate detection and recognition on Indian Number Plates using Yolo v3 Darknet and OCR
 
-#Detection
-
-<p align="center">                     
+<p align="center">  
+## Detection
+  
   <img src="https://media.giphy.com/media/9rpdP0huNtf2pOqvjs/giphy.gif">
-</p>
+
+
 
 ### Dataset Preparation
 
-<p align="center">                     
   <img src="https://media.giphy.com/media/xTiTnJo7hCVlHyOag8/giphy.gif">
 </p>
 
