@@ -50,3 +50,18 @@ We train on YOLO v3 Darknet in Google Colaboratory. Notice the darknet forlder i
   <img src="https://github.com/sid0312/ANPR/blob/master/weights/checkpoints/checkpoint_img.JPG">
 </p>
 
+## Time for detection
+https://media.giphy.com/media/q6OWziPni6sQE/200_d.gif
+<p align="center">   
+  <img src="https://media.giphy.com/media/q6OWziPni6sQE/200_d.gif">
+</p>
+
+```
+git clone https://github.com/sid0312/ANPR
+cd ANPR
+python test.py -i /path/to/image -c /path/to/config_file -w /path/to/weights/ -cl /path/to/obj.names
+```
+# Results for detection
+![](screenshots/capture1.JPG)
+
+
