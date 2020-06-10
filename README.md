@@ -48,6 +48,7 @@ The entire training process has been explained [here](https://github.com/sid0312
 We train on YOLO v3 Darknet in Google Colaboratory. Notice the darknet forlder in the repository shows the files to be added to the cloned repository from Pjreddie.
 <p align="center">   
   <img src="https://github.com/sid0312/ANPR/blob/master/weights/checkpoints/checkpoint_img.JPG">
+  <h6> Model checkpoints</h6>
 </p>
 
 ## Time for detection
