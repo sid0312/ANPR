@@ -81,3 +81,10 @@ Note: It works on only high resolution images as the dataset contains only 237 i
 
 Now we use Optical Character Recognition on the cropped Region of Interest to obtain the value of the license plate. We use the awesome <strong>Pytesseract</strong> library 
 
+
+```
+cd ANPR
+python recognition.py /path/to/cropped/img
+```
+
+
