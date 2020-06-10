@@ -91,4 +91,13 @@ python recognition.py /path/to/cropped/img
  <img src = "https://github.com/sid0312/ANPR/blob/master/screenshots/capture_2.JPG"
       </p>
  
+ ## Our ANPR works. Credits to....
+ <p align = "center">
+ <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQpfwnFBi_lwASFfTWZglIW7nqDLGpZyySVsp7FGgUYm8ujMAqd&usqp=CAU"
+  </p>
+ 
+ ### Just Kidding
+ 
+ # Made with :heart: by Siddhant Baldota 
+ 
  
