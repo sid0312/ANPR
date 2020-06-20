@@ -23,7 +23,7 @@
  This would serve as our starter dataset
 
 
-- Check out JSON preprocessing to yield the dataset in yolo format [here](https://github.com/sid0312/ANPR/blob/master/data_preparation.ipynb)
+- Check out JSON preprocessing to yield the dataset in yolo format [here](https://github.com/sid0312/ANPR/blob/master/notebooks/data_preparation.ipynb)
 
   
 
